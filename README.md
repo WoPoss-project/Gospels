@@ -1,1 +1,1 @@
-# The WoPoss dataset of modality in the Gospels
+# The WoPoss dataset on modality in the Gospels
