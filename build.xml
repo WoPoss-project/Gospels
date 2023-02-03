@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." name="gospels">
+  <description>Semantic analysis of the Gospels (Greek and Latin) by the WoPoss project</description>
+    <property name="output.dir" value="output"></property>
+    <property name="saxonJar" value="lib/saxon.jar"></property>
+    <target name="align">
+        <mkdir dir="${output.dir}"/>
+        <java fork="true" classname="net.sf.saxon.Query" classpath="${saxonJar}" failonerror="true">
+            <arg value="-q:scripts/alignment.xquery"/>
+            <arg value="-o:${output.dir}/aligment-results.tsv"/>
+        </java>
+    </target>
+    <target name="analysis">
+        <mkdir dir="${output.dir}"/>
+        <java fork="true" classname="net.sf.saxon.Query" classpath="${saxonJar}" failonerror="true">
+            <arg value="-q:scripts/tabular_markers.xquery"/>
+            <arg value="-o:${output.dir}/potential_markers.tsv"/>
+        </java>
+        <java fork="true" classname="net.sf.saxon.Query" classpath="${saxonJar}" failonerror="true">
+            <arg value="-q:scripts/tabular_modality.xquery"/>
+            <arg value="-o:${output.dir}/modal_passages.tsv"/>
+        </java>
+    </target>
+</project>
