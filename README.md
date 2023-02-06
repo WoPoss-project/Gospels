@@ -42,6 +42,27 @@ If you don’t have Ant, there are several tutorials online adapted to your OS. 
 
 ## How to cite 
 
-Dell’Oro, Francesca and Bermúdez Sabel, Helena (2023). The WoPoss dataset on modality in the Gospels. https://github.com/WoPoss-project/Gospels. 10.5281/zenodo.7599972
+– to cite the dataset: Dell’Oro, Francesca and Bermúdez Sabel, Helena (2023). The WoPoss dataset on modality in the Gospels. https://github.com/WoPoss-project/Gospels. 10.5281/zenodo.7599972
+
+– to cite single Latin files: 
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; von Kaenel, Thomas (2023). Evangelium secundum Matthaeum, translated by Jerome of Stridon, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; von Kaenel, Thomas (2023). Evangelium secundum Marcum, translated by Jerome of Stridon, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; Reymond, Séverine (2023). Evangelium secundum Lucam, translated by Jerome of Stridon, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; von Kaenel, Thomas (2023). Evangelium secundum Ioannem, translated by Jerome of Stridon, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
+– to cite single Greek files: 
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; von Kaenel, Thomas (2023). Evangelium secundum Matthaeum, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; von Kaenel, Thomas (2023). Evangelium secundum Marcum, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; Reymond, Séverine (2023). Evangelium secundum Lucam, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
+Dell’Oro, Francesca; Bermúdez Sabel, Helena; von Kaenel, Thomas (2023). Evangelium secundum Ioannem, annotated according to the WoPoss guidelines. Swiss National Science Foundation.
+
 
 
