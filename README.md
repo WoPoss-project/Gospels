@@ -40,8 +40,8 @@ If you don’t have Ant, there are several tutorials online adapted to your OS. 
 - Windows: https://mkyong.com/ant/how-to-install-apache-ant-on-windows/ 
 - Ubuntu: https://www.osradar.com/install-apache-ant-ubuntu-20-04/ 
 
-#### How to cite 
+## How to cite 
 
-Dell’Oro, F. and Bermúdez Sabel, H. (2023). The WoPoss dataset on modality in the Gospels. https://github.com/WoPoss-project/Gospels. 10.5281/zenodo.7599972 ![image](https://user-images.githubusercontent.com/26820444/217042985-8e40b297-429e-486b-b886-d2b0fe1b978b.png)
+Dell’Oro, Francesca and Bermúdez Sabel, Helena (2023). The WoPoss dataset on modality in the Gospels. https://github.com/WoPoss-project/Gospels. 10.5281/zenodo.7599972
 
 
