@@ -42,7 +42,7 @@ If you don’t have Ant, there are several tutorials online adapted to your OS. 
 
 ## How to cite 
 
-– to cite the dataset: Dell’Oro, Francesca and Bermúdez Sabel, Helena (2023). The WoPoss dataset on modality in the Gospels. https://github.com/WoPoss-project/Gospels. 10.5281/zenodo.7599972
+– to cite the dataset (preferred): Dell’Oro, Francesca and Bermúdez Sabel, Helena (2023). The WoPoss dataset on modality in the Gospels. https://github.com/WoPoss-project/Gospels. 10.5281/zenodo.7599972
 
 – to cite single Latin files: 
 
