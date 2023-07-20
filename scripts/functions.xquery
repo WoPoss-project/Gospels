@@ -15,7 +15,7 @@ declare function woposs:citation-form($fs as node()+) as xs:string {
 
 (:function to format the contents of an <s> element, normalizing white space and introducing 
 curly braces to delimit implicit contents:)
-declare function woposs:get-verse-contents($s as node()+) as xs:string {
+declare function woposs:get-verse-contents($s as node()*) as xs:string {
     let $nodes := for $x in $s/node()
     return
         if ($x/self::tei:supplied) then
