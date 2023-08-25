@@ -13672,9 +13672,7 @@
                   <seg function="marker" ana="#u_s95483" synch="#lk19_04">
                      <w pos="VERB" lemma="μέλλω" msd="#vd1e1634">ἤμελλεν</w>
                   </seg>
-                  <seg function="scope" ana="#u_s95484">
-                     <w pos="VERB" lemma="διέρχομαι" msd="#lkd1e50645">διέρχεσθαι</w>
-                  </seg>
+                     <w pos="VERB" lemma="διέρχομαι">διέρχεσθαι</w>
                   <pc>.</pc>
                </s>
                <s id="b.LUK.19.5" n="5">
@@ -15750,9 +15748,7 @@
                      <seg function="marker" synch="#lk21_36" ana="#u255171">
                         <w pos="VERB" lemma="μέλλω" msd="#lkd1e57415">μέλλοντα</w>
                      </seg>
-                     <seg function="scope" ana="#u255172">
                         <w pos="VERB" lemma="γίγνομαι" msd="#lkd1e57420">γίνεσθαι</w>
-                     </seg>
                   </seg>
                   <w pos="CCONJ" lemma="καί">καὶ</w>
                   <seg function="scope" ana="#u374313">
@@ -18620,20 +18616,6 @@
          </f>
          <f name="Voice">
             <symbol value="Act"/>
-         </f>
-      </fs>
-      <fs type="msd" xml:id="lkd1e50645">
-         <f name="Aspect">
-            <symbol value="Imp"/>
-         </f>
-         <f name="Tense">
-            <symbol value="Pres"/>
-         </f>
-         <f name="VerbForm">
-            <symbol value="Inf"/>
-         </f>
-         <f name="Voice">
-            <symbol value="Mid"/>
          </f>
       </fs>
       <fs type="msd" xml:id="lkd1e44830">
@@ -23054,22 +23036,6 @@
             <symbol value="inevitability"/>
          </f>
       </fs>
-      <fs xml:id="r_v91524" type="relation">
-         <f name="modality">
-            <symbol value="dynamic"/>
-         </f>
-         <f name="marker" fVal="u255171"/>
-         <f name="scope" fVal="u255172"/>
-         <f name="meaning">
-            <symbol value="necessity"/>
-         </f>
-         <f name="type">
-            <symbol value="situational"/>
-         </f>
-         <f name="subtype">
-            <symbol value="inevitability"/>
-         </f>
-      </fs>
       <fs xml:id="r_v92612" type="relation">
          <f name="modality">
             <symbol value="dynamic"/>
@@ -25898,6 +25864,20 @@
          </f>
          <f name="locus">
             <string>2</string>
+         </f>
+         <f name="lemma">
+            <symbol value="μέλλω"/>
+         </f>
+      </fs>
+      <fs xml:id="u255171" type="marker">
+         <f name="pertinence">
+            <binary value="false"/>
+         </f>
+         <f name="modal">
+            <binary value="false"/>
+         </f>
+         <f name="locus">
+            <string>36</string>
          </f>
          <f name="lemma">
             <symbol value="μέλλω"/>
