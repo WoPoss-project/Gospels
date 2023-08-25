@@ -22541,26 +22541,6 @@
             <symbol value="τος"/>
          </f>
       </fs>
-      <fs xml:id="u255171" type="marker">
-         <f name="utterance">
-            <symbol value="non-interrogative"/>
-         </f>
-         <f name="polarity">
-            <symbol value="affirmative"/>
-         </f>
-         <f name="pertinence">
-            <binary value="true"/>
-         </f>
-         <f name="modal">
-            <binary value="true"/>
-         </f>
-         <f name="locus">
-            <string>36</string>
-         </f>
-         <f name="lemma">
-            <symbol value="μέλλω"/>
-         </f>
-      </fs>
       <fs xml:id="u255172" type="scope">
          <f name="utterance">
             <symbol value="non-interrogative"/>
