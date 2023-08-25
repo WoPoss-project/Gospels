@@ -21423,26 +21423,6 @@
             <symbol value="ἀδυνατέω"/>
          </f>
       </fs>
-      <fs xml:id="u_s95483" type="marker">
-         <f name="utterance">
-            <symbol value="non-interrogative"/>
-         </f>
-         <f name="polarity">
-            <symbol value="negative"/>
-         </f>
-         <f name="pertinence">
-            <binary value="true"/>
-         </f>
-         <f name="modal">
-            <binary value="true"/>
-         </f>
-         <f name="locus">
-            <string>4</string>
-         </f>
-         <f name="lemma">
-            <symbol value="μέλλω"/>
-         </f>
-      </fs>
       <fs xml:id="u_t100001" type="marker">
          <f name="pertinence">
             <binary value="false"/>
@@ -22917,19 +22897,6 @@
          </f>
          <f name="marker" fVal="u_v25903"/>
          <f name="scope" fVal="u_v25945"/>
-         <f name="meaning">
-            <symbol value="possibility"/>
-         </f>
-         <f name="type">
-            <symbol value="situational"/>
-         </f>
-      </fs>
-      <fs xml:id="r_v26172" type="relation">
-         <f name="modality">
-            <symbol value="dynamic"/>
-         </f>
-         <f name="marker" fVal="u_s95483"/>
-         <f name="scope" fVal="u_s95484"/>
          <f name="meaning">
             <symbol value="possibility"/>
          </f>
@@ -25858,6 +25825,20 @@
          </f>
          <f name="locus">
             <string>36</string>
+         </f>
+         <f name="lemma">
+            <symbol value="μέλλω"/>
+         </f>
+      </fs>
+       <fs xml:id="u_s95483" type="marker">
+         <f name="pertinence">
+            <binary value="false"/>
+         </f>
+         <f name="modal">
+            <binary value="false"/>
+         </f>
+         <f name="locus">
+            <string>4</string>
          </f>
          <f name="lemma">
             <symbol value="μέλλω"/>
