@@ -124,7 +124,7 @@ let $verses := $languagesDocs//seg[@id = $verseNumber]
 
 (:select all variables that will be presented in the table as column values :)
 let $colValues := ($marker/ancestor::tei:TEI/@source, $marker/@xml:id, $verseNumber, $citationFormGrc, $citationFormLa, $verseGrcContents,
-$verseLaContents, (for $verse in $verses return $verse/normalize-space(.)),$soa, $ambiguity,
+$verseLaContents, (for $verse in $verses return $verse/replace(normalize-space(.), "&quot;", "''")),$soa, $ambiguity,
 $modalMeaning, $notionalDomain, 
 if ($modalSubtype) then
     $modalSubtype
