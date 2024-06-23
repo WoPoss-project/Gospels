@@ -44,7 +44,7 @@ If you don’t have Ant, there are several tutorials online adapted to your OS. 
 
 – to cite the dataset: Dell’Oro, Francesca and Bermúdez Sabel, Helena (2023). The WoPoss dataset on modality in the Gospels. https://github.com/WoPoss-project/Gospels. 10.5281/zenodo.7599972
 
-- to cite this project: Bermúdez Sabel, Helena and Dell’Oro, Francesca (2024). [An Annotated Multilingual Dataset to Study Modality in the Gospels](https://www.digitalhumanities.org/dhq/vol/18/1/000737/000737.html). Digital Humanities Quaterly 18.1. https://www.digitalhumanities.org/dhq/vol/18/1/000737/000737.html
+– to cite this project: Bermúdez Sabel, Helena and Dell’Oro, Francesca (2024). [An Annotated Multilingual Dataset to Study Modality in the Gospels](https://www.digitalhumanities.org/dhq/vol/18/1/000737/000737.html). Digital Humanities Quaterly 18.1. https://www.digitalhumanities.org/dhq/vol/18/1/000737/000737.html
 
 – to cite single Latin files: 
 
